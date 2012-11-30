@@ -51,3 +51,7 @@
 /reset_passwords/reset | password_resets.reset.intro | Enter your new password below.
 /reset_passwords/reset | reset_password_form.help | <p>Put in your desired Ninefold password on this page to change it.</p>
 /reset_passwords/reset | reset_password_button | Reset Password
+/reset_passwords/reset/new | reset_password.title | Forgot Password?
+/reset_passwords/reset/new | reset_passwords.intro | Please follow these simple steps to reset your password.
+/reset_passwords/reset/new | forgot_password.help | <p>Enter your username to continue.</p>
+/users/1 | users.show.dashboard_help | <p>View your Github account details, or change them if desired.</p> |
