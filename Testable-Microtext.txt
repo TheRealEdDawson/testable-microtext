@@ -31,6 +31,8 @@
 /account/profile | account.show.help | <p>View your account details here. Also manage your resources and see your API keys. <a href="https://ninefold.com/support/display/Octane/Account+Screens" target="new">Read more</a></p>
 /account/profile/edit | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
 /account/billing/2 | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
+/account/users | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
+/account/users/new | activerecord.attributes.user.timezone | Timezone
 /account/resources | account.resources.isos | ISOs
 /account/resources | account.resources.isos.empty | You have no ISOs.<br/>ISO files are images from an optical disk format, such as a DVD-ROM. You can upload your own ISOs for use on Ninefold. <a href="https://ninefold.com/support/x/QYhu" target="new">Read more</a>
 /account/resources | account.resources.templates | Templates
