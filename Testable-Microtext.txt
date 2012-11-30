@@ -71,5 +71,5 @@
 /reset_passwords/reset/new | reset_password.title | Forgot Password?
 /reset_passwords/reset/new | reset_passwords.intro | Please follow these simple steps to reset your password.
 /reset_passwords/reset/new | forgot_password.help | <p>Enter your username to continue.</p>
-/users/1 | users.show.dashboard_help | <p>View your Github account details, or change them if desired.</p> |
+/users/1 | users.show.dashboard_help | <p>View your Github account details, or change them if desired.</p>
 /users/1 | show_user_heading | User Profile
