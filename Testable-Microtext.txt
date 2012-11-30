@@ -47,3 +47,7 @@
 /registrations/new#billing-details | registrations.intro_step2 | <p>Please enter your credit card details.</p>
 /registrations/thankyou | registrations.thankyou | <p>Congratulations on setting up your Ninefold account.<br/><br/>You have been sent an email with a special link; open the email and click that link to activate your account. <br/><br/>Following that, <a href="/sessions/new">log in</a> to your account and let's get started!<br/><br/> Jump into our <a href="https://ninefold.com/support/display/Octane/Deploying+a+Server+on+Ninefold+2.0" target="new">Getting Started Guides</a> if you need some help.</p>
 /account/api | api.intro | <p>Your API keys should be stored in a safe place. You can regenerate them if required (regenerating will cancel the old key set).</p>
+/reset_passwords/reset | reset_password_form.title | Reset your password
+/reset_passwords/reset | password_resets.reset.intro | Enter your new password below.
+/reset_passwords/reset | reset_password_form.help | <p>Put in your desired Ninefold password on this page to change it.</p>
+/reset_passwords/reset | reset_password_button | Reset Password
