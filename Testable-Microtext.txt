@@ -8,6 +8,7 @@
 /servers | servers.index.help | <p>Click to edit and adjust your servers. Servers are single virtual machines on which you can install anything you like. External IP addresses are shown on the left, and internal IP addresses are shown on the right of each server icon.<br/><a href="https://ninefold.com/support/display/Octane/Server+List+Screen" target="new">Read more</a></p>
 /servers | servers.index.title | Servers
 /servers | servers.index.title.no-servers | You haven't deployed any servers yet.
+/servers/new#step1 | servers.new.title | Create a new Server
 /servers/new#step1 | servers.new.help | <p><ul><li><b>Name your server</b>: Enter a meaningful name for your server that describes its purpose. For example, "Web Server-Online Store".<li><b>Choose the zone for your server</b>: Select the data centre location for your server.<li><b>Select a level of processing power</b>: Make a selection of CPU and RAM on this screen.<li><b>Select your operating system</b>: Choose the OS you need for your applications.<li><b>Select a template</b>: A template is a combination of your chosen OS and some pre-installed applications.<li><b>Select additional disks</b>: If you need more storage than the default, add more.<li><b>Select additional options</b>: Choose password, ports you need open and backup options.<br><a href="https://ninefold.com/support/display/Octane/Deploying+a+Server+on+Ninefold+2.0" target="new">Read more</a></p>
 /servers/new#step2 | servers.set_zone.heading | Choose the zone for your server
 /servers/new#step2 | servers.set_zone.intro | <p>A zone represents a geographical location, the data centre where the server will be created.</p>
@@ -61,6 +62,7 @@
 /network | network.ip_addresses.details | Here you can manage any IP addresses that are currently in use. Server IP addresses are mapped directly to your servers. Other IP addresses (source NAT IP Addresses) allow you to create special forwarding rules to your servers.
 /events | notifications.help | <p>See a list of all system events here.<br/><a href="https://ninefold.com/support/x/Xohu" target="new">Read more</a></p>
 /events | notifications.title | Notifications
+/tickets | tickets.index.title | Your Tickets
 /tickets | tickets.index.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
 /tickets | tickets.new.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
 /registrations/new | registrations.title | Sign up with Ninefold (1 of 2)
