@@ -60,10 +60,11 @@
 /events | notifications.title | Notifications
 /tickets | tickets.index.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
 /tickets | tickets.new.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
-/registrations/new | registrations.title | Sign up with Ninefold
+/registrations/new | registrations.title | Sign up with Ninefold (1 of 2)
 /registrations/new | registrations.help_step1 | <p>Please fill in your details. If you have any questions, why not <a href="http://ninefold.com/">Live Chat</a> with our Support team?</p>
 /registrations/new | registrations.intro_step1 | <p>Enter your contact details to get started! This should only take a few minutes.</p>
 /registrations/new | registrations.account_name_help | <p>This is the entity that your tax invoice will be made out to.</p>
+/registrations/new#billing-details | registrations.title.step2 | Sign up with Ninefold (2 of 2)
 /registrations/new#billing-details | registrations.help_step2 | <p>Please enter your payment details. If you have any questions, why not chat with our <a href="http://ninefold.com/">Sales Team</a>?</p>
 /registrations/new#billing-details | registrations.intro_step2 | <p>Please enter your credit card details.</p>
 /registrations/thankyou | registrations.thankyou | <p>Congratulations on setting up your Ninefold account.<br/><br/>You have been sent an email with a special link; open the email and click that link to activate your account. <br/><br/>Following that, <a href="/sessions/new">log in</a> to your account and let's get started!<br/><br/> Jump into our <a href="https://ninefold.com/support/display/Octane/Deploying+a+Server+on+Ninefold+2.0" target="new">Getting Started Guides</a> if you need some help.</p>
