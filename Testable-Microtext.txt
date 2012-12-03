@@ -1,3 +1,4 @@
+/sessions/new | login.title | Sign in to Ninefold
 /sessions/new | login.help | <p>Sign in with your username and password.<br/>New to Ninefold? <a href="/registrations/new">Sign up here</a>.</p>
 /dashboard | ninefold.dashboard.dashboard_help | <p>Welcome to Ninefold!<br/>See a summary of all your servers and apps here. <a href="https://ninefold.com/support/display/Octane/Dashboard+Screen" target="new">Read more</a><br/><ul><li>A <b>server</b> is one virtual machine, on which you install whatever software you like. <a href="https://ninefold.com/support/x/TYdu" target="new">Read more</a><li>An <b>app</b> is a complex deployment with multiple servers, built from a source code repository. <a href="https://ninefold.com/support/x/OYhu">Read more</a><br/></p>
 /dashboard | ninefold.dashboard.dashboard_header | Dashboard
@@ -59,6 +60,7 @@
 /events | notifications.title | Notifications
 /tickets | tickets.index.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
 /tickets | tickets.new.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
+/registrations/new | registrations.title | Sign up with Ninefold
 /registrations/new | registrations.help_step1 | <p>Please fill in your details. If you have any questions, why not <a href="http://ninefold.com/">Live Chat</a> with our Support team?</p>
 /registrations/new | registrations.intro_step1 | <p>Enter your contact details to get started! This should only take a few minutes.</p>
 /registrations/new | registrations.account_name_help | <p>This is the entity that your tax invoice will be made out to.</p>
