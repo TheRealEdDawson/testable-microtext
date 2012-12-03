@@ -31,7 +31,7 @@
 /servers/SERVERNAME/options | servers.options.actions | Actions
 /servers/SERVERNAME/options | servers.clone.title | Clone Your Server
 /servers/SERVERNAME/options | servers.options.clone.intro | Want to duplicate your server?
-/servers/clone#clone/SERVERNAME | servers.clone.help | <p>Cloning a server will do the following:<ul><li>Take a snapshot of the server's root disk.<li>Take snapshot(s) of any additional volume(s).<li>Create a new server from the root disk snapshot.<li>Attach newly created additional volume(s) to the new server.<li>Attaches a new public IP address (if the original server had one)<li>Port mapping configuration from old server is copied to new.<li>The new server will be started up in the same zone as the original.</ul></p>
+/servers/clone#clone/SERVERNAME | servers.clone.help | <p>Cloning a server will do the following:<ul><li>Take a snapshot of the server's root disk.<li>Take snapshot(s) of any additional volume(s).<li>Create a new server from the root disk snapshot.<li>Attach newly created additional volume(s) to the new server.<li>Attach a new public IP address (if the original server had one)<li>Copy port mapping configuration from old server to new.<li>The new server will be started up in the same zone as the original.</ul></p>
 /servers/SERVERNAME/options | servers.options.destroy.heading | Destroy this server
 /servers/SERVERNAME/options | servers.options.destroy.intro | Click below to delete this server. This action cannot be undone.
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
