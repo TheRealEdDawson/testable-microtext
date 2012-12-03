@@ -37,6 +37,7 @@
 /servers/SERVERNAME/options | servers.options.destroy.intro | Click below to delete this server. This action cannot be undone.
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
 /servers/SERVERNAME/live_view | servers.liveview.title | Live View
+/servers/SERVERNAME/live_view | servers.liveview.intro | You can connect to your server directly from this page using live view.
 /apps | apps.index.title | Apps
 /apps | apps.index.intro | Add your app below.
 /apps | apps.index.title.no-apps | You don't have any apps deployed yet.
@@ -65,6 +66,9 @@
 /network | network.index | <p>Control your network settings, manage IP configuration, DNS and load balancers here. <a href="https://ninefold.com/support/display/Octane/Network+Screen" target="new">Read more</a></p>
 /network | network.unassigned_ip_addresses | Here you can manage any IP addresses that are not assigned to a server.
 /network | network.ip_addresses.details | Here you can manage any IP addresses that are currently in use. Server IP addresses are mapped directly to your servers. Other IP addresses (source NAT IP Addresses) allow you to create special forwarding rules to your servers.
+/??? | load_balancer.global.intro | <p>A global load balancer will route traffic between servers or other load balancers in any zone.</p>
+/??? | load_balancer.local.intro | <p>A local load balancer will route traffic between servers in a single zone.  To route traffic between multiple zones, you may set up a global load balancer.</p>
+
 /events | notifications.help | <p>See a list of all system events here.<br/><a href="https://ninefold.com/support/x/Xohu" target="new">Read more</a></p>
 /events | notifications.title | Notifications
 /tickets | tickets.index.title | Your Tickets
