@@ -20,6 +20,7 @@
 /servers/new#step6 | servers.set_storage.heading | Select additional disks (if required)
 /servers/new#step6 | servers.set_storage.intro | <p>Your server will have a primary disk provided by default. If you need more storage, you can add additional disk(s) here.</p>
 /servers/new#step7 | NOT-DEFINED | *** placeholder until copycopter anchors are put in *** This is the "Select additional options" summary page.(needs microtext anchors)
+/servers/??? | servers.set_type.intro | ???
 /servers/SERVERNAME | server.show.help | <p>Check and adjust your server's configuration here. <a href="https://ninefold.com/support/display/Octane/Server+Overview+Screen" target="new">Read more</a></p>
 /servers/SERVERNAME/networks | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
 /servers/SERVERNAME/volumes | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
