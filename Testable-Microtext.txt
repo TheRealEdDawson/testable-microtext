@@ -35,7 +35,6 @@
 /servers/SERVERNAME/options | servers.options.destroy.intro | Click below to delete this server. This action cannot be undone.
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
 /servers/SERVERNAME/live_view | servers.liveview.title | Live View
-
 /apps | apps.index.title | Apps
 /apps | apps.index.title.no-apps | You don't have any apps deployed yet.
 /apps | apps.index.help | <p>Click to edit and adjust your apps. Apps are deployed from source code in version control, and may provision a number of servers.<br><a href="https://ninefold.com/support/display/Octane/App+List+Screen" target="new">Read more</a></br></p>
