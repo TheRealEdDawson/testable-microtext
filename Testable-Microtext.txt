@@ -73,3 +73,5 @@
 /reset_passwords/reset/new | forgot_password.help | <p>Enter your username to continue.</p>
 /users/1 | users.show.dashboard_help | <p>View your Github account details, or change them if desired.</p>
 /users/1 | show_user_heading | User Profile
+/info | info.dashboard.header | Information
+/info | info.dashboard_help | <p>This page shows the current version number of the Ninefold software that is deployed.</p>
