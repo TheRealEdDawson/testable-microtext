@@ -53,7 +53,7 @@
 /network | network.index | <p>Control your network settings, manage IP configuration, DNS and load balancers here. <a href="https://ninefold.com/support/display/Octane/Network+Screen" target="new">Read more</a></p>
 /network | network.unassigned_ip_addresses | Here you can manage any IP addresses that are not assigned to a server.
 /network | network.ip_addresses.details | Here you can manage any IP addresses that are currently in use. Server IP addresses are mapped directly to your servers. Other IP addresses (source NAT IP Addresses) allow you to create special forwarding rules to your servers.
-/events | notifications.help | <p>See a list of all system events here.</p>
+/events | notifications.help | <p>See a list of all system events here.<br/><a href="https://ninefold.com/support/x/Xohu" target="new">Read more</a></p>
 /events | notifications.title | Notifications
 /tickets | tickets.index.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
 /tickets | tickets.new.help | <p>Create and view your tickets with Ninefold Support here. <a href="https://ninefold.com/support/display/Octane/Support+and+FAQs" target="new">Read more</a></p>
