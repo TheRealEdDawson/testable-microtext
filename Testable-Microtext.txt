@@ -28,11 +28,14 @@
 /servers/SERVERNAME/options | servers.options.password.heading | Root Password
 /servers/SERVERNAME/options | servers.options.password.intro | Change your root password here.
 /servers/SERVERNAME/options | servers.options.actions | Actions
+/servers/SERVERNAME/options | servers.clone.title | Clone Your Server
 /servers/SERVERNAME/options | servers.options.clone.intro | Want to duplicate your server?
+/servers/clone#clone/SERVERNAME | servers.clone.help | Cloning a server will do the following:<ul><li>Take snapshot template from root<li>Take snapshot of any additional volumes<li>Power up from root volume<li>Re-attach volumes to the root instance.</ul>
 /servers/SERVERNAME/options | servers.options.destroy.heading | Destroy this server
 /servers/SERVERNAME/options | servers.options.destroy.intro | Click below to delete this server. This action cannot be undone.
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
 /servers/SERVERNAME/live_view | servers.liveview.title | Live View
+
 /apps | apps.index.title | Apps
 /apps | apps.index.title.no-apps | You don't have any apps deployed yet.
 /apps | apps.index.help | <p>Click to edit and adjust your apps. Apps are deployed from source code in version control, and may provision a number of servers.<br><a href="https://ninefold.com/support/display/Octane/App+List+Screen" target="new">Read more</a></br></p>
@@ -67,9 +70,11 @@
 /registrations/new#billing-details | registrations.title.step2 | Sign up with Ninefold (2 of 2)
 /registrations/new#billing-details | registrations.help_step2 | <p>Please enter your payment details. If you have any questions, why not chat with our <a href="http://ninefold.com/">Sales Team</a>?</p>
 /registrations/new#billing-details | registrations.intro_step2 | <p>Please enter your credit card details.</p>
+/registrations/thankyou | registrations.title.thankyou | Thank you!
 /registrations/thankyou | registrations.thankyou | <p>Congratulations on setting up your Ninefold account.<br/><br/>You have been sent an email with a special link; open the email and click that link to activate your account. <br/><br/>Following that, <a href="/sessions/new">log in</a> to your account and let's get started!<br/><br/> Jump into our <a href="https://ninefold.com/support/display/Octane/Deploying+a+Server+on+Ninefold+2.0" target="new">Getting Started Guides</a> if you need some help.</p>
 /account/api | api.intro | <p>Your API keys should be stored in a safe place. You can regenerate them if required (regenerating will cancel the old key set).</p>
 /reset_passwords/reset | reset_password_form.title | Reset your password
+/reset_passwords/reset | reset_password.title | Forgot Password?
 /reset_passwords/reset | password_resets.reset.intro | Enter your new password below.
 /reset_passwords/reset | reset_password_form.help | <p>Put in your desired Ninefold password on this page to change it.</p>
 /reset_passwords/reset | reset_password_button | Reset Password
