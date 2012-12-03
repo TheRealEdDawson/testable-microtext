@@ -45,6 +45,7 @@
 /apps/new#step1 | apps.set_architecture.intro | Pick your deployment type and availability zone(s) for your app.
 /apps/new#step1 | apps.set_environment.intro | Pick your repository branch, then name your application.
 /apps/new#step1 | apps.set_scaling.intro | Choose the number of servers that will power each server role (in each zone). Your app servers will be load balanced with failover across zones. Your database servers will be replicated from master to slave automatically. You can change this configuration at any time.
+/apps/new#step1 | apps.set_software.intro | Select your language, framework, application server, database and addons. If unsure which version number to choose, go with the latest.
 /apps/new | apps.new.title | Deploy a new application
 /apps/new | apps.set_repository.heading | Connect your repository
 /apps/new | apps.set_repository.intro | Ninefold will pull your code directly from GitHub or another Git URL: enter your repository details.
