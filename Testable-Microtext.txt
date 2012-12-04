@@ -33,10 +33,13 @@
 /servers/SERVERNAME/options | servers.options.actions | Clone this server
 /servers/SERVERNAME/options | servers.clone.title | Clone Your Server
 /servers/SERVERNAME/options | servers.options.clone.intro | Want to duplicate your server?
+/servers/SERVERNAME/options | servers.set_os_type.heading | What version of the operating system do you want to run?
 /servers/clone#clone/SERVERNAME | servers.clone.help | <p>Cloning a server will do the following:<ul><li>Take a snapshot of the server's root disk.<li>Take snapshot(s) of any additional volume(s).<li>Create a new server from the root disk snapshot.<li>Attach newly created additional volume(s) to the new server.<li>Attach a new public IP address (if the original server had one)<li>Copy port mapping configuration from old server to new.<li>The new server will be started up in the same zone as the original.</ul></p>
 /servers/SERVERNAME/options | servers.options.destroy.heading | Destroy this server
 /servers/SERVERNAME/options | servers.options.destroy.intro | Click below to delete this server. This action cannot be undone.
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
+/servers/SERVERNAME/options/rename | servers.options.name.rename | Rename your server
+/servers/SERVERNAME/options/rename | servers.options.set_name.heading | Name your server
 /servers/SERVERNAME/live_view | servers.liveview.title | Live View
 /servers/SERVERNAME/live_view | servers.liveview.intro | You can connect to your server directly from this page using live view.
 /servers/SERVERNAME/live_view | servers.liveview.connect | Connect to this Server
