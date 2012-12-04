@@ -31,7 +31,7 @@
 /servers/SERVERNAME/options | servers.options.password.heading | Root Password
 /servers/SERVERNAME/options | servers.options.password.intro | Change your root password here.
 /servers/SERVERNAME/options | servers.options.actions | Clone this server
-/servers/SERVERNAME/options | servers.clone.title | Clone Your Server
+/servers/clone#clone/SERVERNAME | servers.clone.title | Clone Your Server
 /servers/SERVERNAME/options | servers.options.clone.intro | Want to duplicate your server?
 /servers/SERVERNAME/options | servers.set_os_type.heading | What version of the operating system do you want to run?
 /servers/SERVERNAME/options | servers.set_service.heading | Select a level of processing power
