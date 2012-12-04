@@ -52,6 +52,12 @@
 /apps/new | apps.new.title | Deploy a new application
 /apps/new | apps.set_repository.heading | Connect your repository
 /apps/new | apps.set_repository.intro | Ninefold will pull your code directly from GitHub or another Git URL: enter your repository details.
+/apps/new#step1 | apps.set_architecture.heading | Choose your Architecture
+/apps/new#step1 | apps.set_environment.heading | Set up your environment
+/apps/new#step1 | apps.set_scaling.heading | Scale your application
+/apps/new#step1 | apps.set_scaling.zone_instructions | <p>Initial content</p>
+/apps/new#step1 |  apps.set_software.heading | Configure your stack
+
 /account/profile | your_account | Your account
 /account/profile | account.show.help | <p>View your account details here. Also manage your resources and see your API keys. <a href="https://ninefold.com/support/display/Octane/Account+Screens" target="new">Read more</a></p>
 /account/profile/edit | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
@@ -69,6 +75,8 @@
 /network | network.index | <p>Control your network settings, manage IP configuration, DNS and load balancers here. <a href="https://ninefold.com/support/display/Octane/Network+Screen" target="new">Read more</a></p>
 /network | network.unassigned_ip_addresses | Here you can manage any IP addresses that are not assigned to a server.
 /network | network.ip_addresses.details | Here you can manage any IP addresses that are currently in use. Server IP addresses are mapped directly to your servers. Other IP addresses (source NAT IP Addresses) allow you to create special forwarding rules to your servers.
+/??? | load_balancer.global.heading.new | Create Global Load Balancer
+/??? | load_balancer.global.heading.edit | Edit Global Load Balancer
 /??? | load_balancer.global.intro | <p>A global load balancer will route traffic between servers or other load balancers in any zone.</p>
 /??? | load_balancer.local.intro | <p>A local load balancer will route traffic between servers in a single zone.  To route traffic between multiple zones, you may set up a global load balancer.</p>
 /events | notifications.help | <p>See a list of all system events here.<br/><a href="https://ninefold.com/support/x/Xohu" target="new">Read more</a></p>
