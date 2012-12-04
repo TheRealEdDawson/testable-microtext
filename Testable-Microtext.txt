@@ -57,7 +57,6 @@
 /apps/new#step1 | apps.set_scaling.heading | Scale your application
 /apps/new#step1 | apps.set_scaling.zone_instructions | <p>Initial content</p>
 /apps/new#step1 |  apps.set_software.heading | Configure your stack
-
 /account/profile | your_account | Your account
 /account/profile | account.show.help | <p>View your account details here. Also manage your resources and see your API keys. <a href="https://ninefold.com/support/display/Octane/Account+Screens" target="new">Read more</a></p>
 /account/profile/edit | NOT-DEFINED | *** placeholder until copycopter anchors are put in ***
@@ -78,6 +77,8 @@
 /??? | load_balancer.global.heading.new | Create Global Load Balancer
 /??? | load_balancer.global.heading.edit | Edit Global Load Balancer
 /??? | load_balancer.global.intro | <p>A global load balancer will route traffic between servers or other load balancers in any zone.</p>
+/??? | load_balancer.global.targets | <p>You may specify as many servers or other load balancers as you like to be included in this global load balancer.</p>
+/??? | load_balancer.local.heading.new | Create Local Load Balancer
 /??? | load_balancer.local.intro | <p>A local load balancer will route traffic between servers in a single zone.  To route traffic between multiple zones, you may set up a global load balancer.</p>
 /events | notifications.help | <p>See a list of all system events here.<br/><a href="https://ninefold.com/support/x/Xohu" target="new">Read more</a></p>
 /events | notifications.title | Notifications
