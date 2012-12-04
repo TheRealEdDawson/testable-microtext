@@ -39,6 +39,7 @@
 /servers/SERVERNAME/options/rename | servers.options.rename | Rename Server
 /servers/SERVERNAME/live_view | servers.liveview.title | Live View
 /servers/SERVERNAME/live_view | servers.liveview.intro | You can connect to your server directly from this page using live view.
+/servers/SERVERNAME/live_view | servers.liveview.connect | Connect to this Server
 /apps | apps.index.title | Apps
 /apps | apps.index.intro | Add your app below.
 /apps | apps.index.title.no-apps | You don't have any apps deployed yet.
